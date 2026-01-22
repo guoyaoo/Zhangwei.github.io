@@ -28,10 +28,11 @@ Researcher Zhang Wei has received numerous international academic honors, includ
 
 招生专业
 ======
--博士：<br>
+- 博士：<br>
 1.等离子体物理<br>
 2.核能科学与工程<br>
--硕士：<br>
+
+- 硕士：<br>
 1.等离子体物理<br>
 2.核能科学与工程<br>
 
