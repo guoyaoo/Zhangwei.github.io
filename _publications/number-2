@@ -9,7 +9,7 @@ venue: 'Nuclear Fusion '
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: ' https://doi.org/10.1088/1741-4326/ad63bb'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: '2.	W. Zhang, L.N. Liu, X.J. Zhang, C.M. Qin, H. Yang and the EAST Team, “Recent progress in improvement in ion cyclotron range of frequencies coupling and power absorption with new antennas of Experimental Advanced Superconducting Tokamak (EAST)”, Nuclear Fusion 64 096011 (2024)'
+citation: 'W. Zhang, L.N. Liu, X.J. Zhang, C.M. Qin, H. Yang and the EAST Team, “Recent progress in improvement in ion cyclotron range of frequencies coupling and power absorption with new antennas of Experimental Advanced Superconducting Tokamak (EAST)”, Nuclear Fusion 64 096011 (2024)'
 ---
 
 Efficient ion cyclotron range of frequencies (ICRF) wave heating requires good wave coupling at the plasma edge and good radio frequency power absorption in the plasma core. This study reviews recent progress in improving these two aspects of ICRF heating with the new two-strap antennas through various experiments and simulations on the Experimental Advanced
