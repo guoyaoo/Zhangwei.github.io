@@ -2,7 +2,7 @@
 title: "2.Recent progress in improvement in ion cyclotron range of frequencies coupling and power absorption with new antennas of Experimental Advanced Superconducting Tokamak (EAST)"
 collection: publications
 category: manuscripts
-permalink: /publications/number-2
+permalink: /publication/number-2
 excerpt: 'Keywords: ICRF antenna, ICRF coupling, power absorption, gas puffing, three-ion heating'
 date: 2024-06-26
 venue: 'Nuclear Fusion '
