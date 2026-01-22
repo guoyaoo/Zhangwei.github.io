@@ -1,56 +1,36 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介（Introduction）"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+张伟，中国科学院等离子体物理研究所研究员、中国科学技术大学博士生导师，国家高层次引进人才。长期从事磁约束聚变微波加热理论与实验研究，曾先后在中国科学院等离子体物理研究所、比利时根特大学及德国马普等离子体物理研究所完成硕士、博士及博士后研究，并曾受聘于美国通用原子能公司，获永久职位。
+主持多项重要科研项目，包括欧盟EUROfusion计划、ITER国际项目、国家磁约束核聚变能发展研究专项、中国科学院国际合作项目、国家优秀青年科学基金项目以及国家自然科学基金面上项目等。累计发表SCI论文133篇，学术成果显著。
+屡获国际学术荣誉，包括欧洲物理学会博士研究奖（每年授予1–4人）、欧盟EUROfusion Researcher Grant（每年约10人）、亚太等离子体物理学会U40青年科学家奖（聚变领域每年1–2人），并当选为ITER Scientist Fellow、美国能源部基金评审专家及国际托卡马克物理活动组织（ITPA）专家等，展现了其在国际聚变领域的广泛影响力。
+Zhang Wei, a researcher at the Institute of Plasma Physics, Chinese Academy of Sciences, and a doctoral supervisor at the University of Science and Technology of China, is a national high-level talent. He has long been engaged in experimental and theoretical research on microwave heating in magnetic confinement fusion. He completed his master's, doctoral, and postdoctoral studies at the Institute of Plasma Physics, Chinese Academy of Sciences, Ghent University in Belgium, and the Max Planck Institute for Plasma Physics in Germany, respectively. He was also offered a permanent position at General Atomics in the United States.\n
+He has led several key scientific research projects, including the EUROfusion program of the European Union, the ITER international project, the National Magnetic Confinement Nuclear Fusion Energy Development Research Program, the International Cooperation Program of the Chinese Academy of Sciences, the National Science Fund for Excellent Young Scholars, and the General Program of the National Natural Science Foundation of China. He has published a total of 133 SCI papers, demonstrating significant academic achievements.\n
+Researcher Zhang Wei has received numerous international academic honors, including the European Physical Society Doctoral Research Award (awarded to 1–4 individuals annually), the EUROfusion Researcher Grant (approximately 10 recipients per year), and the Asia-Pacific Plasma Physics Association U40 Young Scientist Award (1–2 individuals in the fusion field annually). He has also been appointed as an ITER Scientist Fellow, a reviewer for the U.S. Department of Energy's funding programs, and an expert in the International Tokamak Physics Activity (ITPA), highlighting his extensive influence in the international fusion research community.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+研究方向
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- 等离子体物理
+- 等离子体物理
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+招生专业
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+-博士：\n
+1.等离子体物理\n
+2.核能科学与工程\n
+-硕士：\n
+1.等离子体物理\n
+2.核能科学与工程\n
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[招生网站](http://tutor.hfcas.ac.cn/tutor/tutor-info?id=186)
