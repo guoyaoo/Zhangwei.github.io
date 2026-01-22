@@ -1,9 +1,9 @@
 ---
-title: "Stability analysis of Alfvén eigenmodes excited by ion cyclotron resonance heating on EAST"
+title: "1.Stability analysis of Alfvén eigenmodes excited by ion cyclotron resonance heating on EAST"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Stability analysis of Alfvén eigenmodes excited by ion cyclotron resonance heating on EAST.'
 date: 2025-10-1
 venue: 'Plasma Physics and Controlled Fusion'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
