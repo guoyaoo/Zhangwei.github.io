@@ -40,4 +40,5 @@ Researcher Zhang Wei has received numerous international academic honors, includ
 
 For more info
 ------
-[招生网站](http://tutor.hfcas.ac.cn/tutor/tutor-info?id=186)
+[招生网站](http://tutor.hfcas.ac.cn/tutor/tutor-info?id=186)   [中科院等离子体物理研究所](http://www.ipp.ac.cn/)  [中国科学技术大学](https://www.ustc.edu.cn/)
+
