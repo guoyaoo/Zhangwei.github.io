@@ -2,7 +2,7 @@
 title: "1.Stability analysis of Alfvén eigenmodes excited by ion cyclotron resonance heating on EAST"
 collection: publications
 category: manuscripts
-permalink: /publication/number-1
+permalink: /publication/number-3
 excerpt: 'Keywords: ICRH, Alfvén eigenmodes, fast ion distribution'
 date: 2025-11-18
 venue: 'Plasma Physics and Controlled Fusion'
