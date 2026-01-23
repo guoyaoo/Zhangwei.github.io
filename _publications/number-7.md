@@ -1,5 +1,5 @@
 ---
-title: "Conceptual design and optimization of an ITER-type ICRF antenna on CFETR"
+title: "7.Conceptual design and optimization of an ITER-type ICRF antenna on CFETR"
 collection: publications
 category: manuscripts
 permalink: /publication/number-7
