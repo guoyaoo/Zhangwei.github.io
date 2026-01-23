@@ -8,7 +8,7 @@ date: 2023-04-03
 venue: 'Nuclear Fusion'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1088/1741-4326/acc4db'
-#bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+bibtexurl: 'https://github.com/guoyaoo/ZhangWei.github.io/files/IOPEXPORT_BIB (1).bib'
 citation: 'W. Zhang, G.H. Zhu, X.J. Zhang, G.Q. Zhong, L. Ai, Y.Q. Chu, T.S. Fan, H.C. Fan, Y.Y. Guo, B.L. Hao, J. Huang, Y.F. Jin, L.N. Liu, L.Y. Liao, Y.H. Li, Q.C. Liang, Y.X. Sun, G. X. Wang, D.K. Yang, H. Yang, H.P. Zhang, and the EAST team, “Influence of ICRF-NBI synergy on fast ion distribution and plasma performance in second harmonic heating experiments with deuterium NBI at EAST”, Nuclear Fusion 63 056015 (2023) '
 ---
 
