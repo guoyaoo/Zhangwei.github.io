@@ -3,7 +3,7 @@ title: "3.Experimental and numerical investigation of ICRF induced low-frequency
 collection: publications
 category: manuscripts
 permalink: /publication/number-3
-#excerpt: 'Keywords: ICRH, Alfvén eigenmodes, fast ion distribution'
+excerpt: ' '
 date: 2024-03-04
 venue: 'Physics of Plasmas'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
